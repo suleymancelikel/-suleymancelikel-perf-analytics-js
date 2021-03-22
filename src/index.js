@@ -1,4 +1,4 @@
-const init = (serviceUrl = 'google.com') => {
+const init = (serviceUrl = 'https://perf-analytics-service.herokuapp.com/performance/metrics') => {
   window.performanceAnalytics = {
     metrics: {
       fcp: null,

@@ -1,6 +1,6 @@
 {
   "name": "@suleymancelikel/perf-analytics-js",
-  "version": "1.2.13",
+  "version": "1.2.14",
   "description": "Simple performance analycs.",
   "main": "src/index.js",
   "repository": {
